@@ -1,0 +1,6 @@
+mlflow==2.19.0
+prometheus-client==0.26.0
+pandas==2.3.3
+numpy==2.5.4
+scikit-learn==1.9.1
+requests==2.32.5
